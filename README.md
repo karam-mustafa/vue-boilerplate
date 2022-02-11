@@ -1,4 +1,4 @@
 # vue-boilerplate
 Where you can work in an organized way and with your team
 # Wait
-We will document every thing with patterns and structure after when release a major release.
+This project has moved to be within syrian open source community, you still can use this package from [here](https://github.com/Syrian-Open-Source/vue-studio), but the Future releases will be here
